@@ -1,4 +1,7 @@
 from typing import List
+from typing_extensions import TypeVar
+
+
 def longestCommonPrefix(strs: List[str]) -> str:
     if not strs or len(strs) == 0:
         return ""
