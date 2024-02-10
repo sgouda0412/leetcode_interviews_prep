@@ -39,7 +39,6 @@ class Solution:
             curr.next = new_node
             curr = curr.next
 
-
         return dummy_node.next
 
         #==========================================================================
