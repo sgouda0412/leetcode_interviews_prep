@@ -1,0 +1,52 @@
+.explorer-viewlet { 
+  font-family: "Cascadia Code"; 
+}
+.tab-label {
+    font-weight: bold !important;
+}
+
+
+"workbench.colorCustomizations": {
+    "terminal.background": "#193549",
+    "terminal.foreground": "#ffffff",
+    "terminalCursor.background": "#ffcc00",
+    "terminalCursor.foreground": "#ffcc00",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "#75a5b0",
+    "terminal.ansiBrightBlack": "#666666",
+    "terminal.ansiBrightBlue": "#75a5b0",
+    "terminal.ansiBrightCyan": "#a3babf",
+    "terminal.ansiBrightGreen": "#d0e7a3",
+    "terminal.ansiBrightMagenta": "#d4bfff",
+    "terminal.ansiBrightRed": "#ff8888",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#ffcc66",
+    "terminal.ansiCyan": "#7195a8",
+    "terminal.ansiGreen": "#99c794",
+    "terminal.ansiMagenta": "#d4bfff",
+    "terminal.ansiRed": "#ec7279",
+    "terminal.ansiWhite": "#ffffff",
+    "terminal.ansiYellow": "#fac863",
+    "sideBar.background": "#193549",
+    "sideBar.foreground": "#d4d7d6",
+    "sideBarSectionHeader.background": "#202e3a",
+    "sideBarSectionHeader.foreground": "#ffffff",
+    "sideBarTitle.foreground": "#d4d7d6",
+    "list.activeSelectionBackground": "#004a73",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#002b36",
+    "list.inactiveSelectionForeground": "#d4d7d6",
+    "list.hoverBackground": "#003c57",
+    "list.hoverForeground": "#ffffff",
+    "list.focusBackground": "#004a73",
+    "list.focusForeground": "#ffffff",
+    "list.highlightForeground": "#ffc600",
+    "activityBar.background": "#193549",
+    "activityBar.foreground": "#d4d7d6",
+    "activityBarBadge.background": "#ffc600",
+    "activityBarBadge.foreground": "#193549",
+    "activityBar.activeBorder": "#ffc600",
+    "sideBar.border": "#002b36",
+    "editorGroup.border": "#193549"
+  }
+  
