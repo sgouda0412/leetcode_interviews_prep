@@ -1,5 +1,5 @@
 # class Solution:
-from typing import List
+from typing import List, Tuple
 
 
 def spiralOrder(matrix: List[List[int]]) -> List[int]:
@@ -32,8 +32,8 @@ def spiralOrder(matrix: List[List[int]]) -> List[int]:
 
 
 if __name__ == "__main__":
-    matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+    matrix = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
     print(spiralOrder(matrix))
 
-#Output: [1,2,3,6,9,8,7,4,5]
-#Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+# Output: [1,2,3,6,9,8,7,4,5]
+# Output: [1,2,3,4,8,12,11,10,9,5,6,7]
