@@ -1,6 +1,6 @@
 x = list(map(int, input("Enter the Values: ").split()))
 print(x)
-
+print("Everything is Good")
 
 x, y = input("Enter x and y: ").split()
 print(f"x = {x} and y = {y}")
